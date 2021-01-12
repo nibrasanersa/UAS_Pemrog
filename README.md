@@ -12,4 +12,4 @@ Aplikasi ini merupakan sebuah program Kedai Coffe untuk memenuhi tugas UAS Pemro
 -   Terdapat folder Controller yang berisi class  `MainWindowController.cs`  `MenuController.cs`  dan  `PromoController.cs`
 -   Terdapat class `MainWindow.xaml.cs`, `Menu.xaml.cs`, dan `Promo.xaml.cs`  untuk function
 
-Mardi Yuwono - 19.11.2846
+NIBRAS F ANERSA 19.11.2853
